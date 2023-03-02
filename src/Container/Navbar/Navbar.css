@@ -1,0 +1,16 @@
+.Irefam__Navbar-Container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.Irefam__Navbar-Links{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.Irefam__Navbar-Links li{
+    list-style: none;
+    flex-direction: row;
+}
